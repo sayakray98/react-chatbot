@@ -1,0 +1,63 @@
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T08:36:50.352Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T08:36:50.403Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T08:36:56.567Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T08:36:56.582Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T08:37:07.883Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T08:37:07.889Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T08:37:09.570Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T08:37:09.581Z"}
+{"level":"error","message":"OpenAI API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.","timestamp":"2024-11-05T08:37:36.073Z"}
+{"level":"error","message":"Processing error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.","timestamp":"2024-11-05T08:37:36.074Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:08:37:36 +0000] \"POST /upload HTTP/1.1\" 500 241 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T08:37:36.092Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T08:43:23.282Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T08:43:23.295Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T08:43:26.874Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T08:43:26.880Z"}
+{"level":"error","message":"OpenAI API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.","timestamp":"2024-11-05T08:43:43.492Z"}
+{"level":"error","message":"Processing error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.","timestamp":"2024-11-05T08:43:43.495Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:08:43:43 +0000] \"POST /upload HTTP/1.1\" 429 62 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T08:43:43.518Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T09:52:02.452Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T09:52:02.465Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T10:16:22.687Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T10:16:22.693Z"}
+{"level":"error","message":"Gemini API error: Request failed with status code 404","timestamp":"2024-11-05T10:17:23.231Z"}
+{"level":"error","message":"Processing error: Error communicating with Gemini API","timestamp":"2024-11-05T10:17:23.234Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:17:23 +0000] \"POST /upload HTTP/1.1\" 500 81 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:17:23.257Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T10:19:05.723Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T10:19:05.735Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T10:19:08.520Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T10:19:08.528Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:19:24 +0000] \"POST /upload HTTP/1.1\" 200 2949 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:19:24.014Z"}
+{"level":"error","message":"Gemini API error: Request failed with status code 500","timestamp":"2024-11-05T10:20:05.126Z"}
+{"level":"error","message":"Processing error: Error communicating with Gemini API","timestamp":"2024-11-05T10:20:05.129Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:20:05 +0000] \"POST /upload HTTP/1.1\" 500 81 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:20:05.136Z"}
+{"level":"error","message":"Gemini API error: Request failed with status code 500","timestamp":"2024-11-05T10:20:16.898Z"}
+{"level":"error","message":"Processing error: Error communicating with Gemini API","timestamp":"2024-11-05T10:20:16.901Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:20:16 +0000] \"POST /upload HTTP/1.1\" 500 81 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:20:16.909Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:20:48 +0000] \"OPTIONS /chat HTTP/1.1\" 204 0 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:20:48.777Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:20:50 +0000] \"POST /chat HTTP/1.1\" 200 587 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:20:50.605Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:21:13 +0000] \"OPTIONS /chat HTTP/1.1\" 204 0 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:21:13.893Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:21:15 +0000] \"POST /chat HTTP/1.1\" 200 586 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:21:15.717Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T10:22:12.847Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T10:22:12.853Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T10:22:17.754Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T10:22:17.760Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T10:22:18.479Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T10:22:18.483Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T10:22:25.806Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T10:22:25.813Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T10:22:28.471Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T10:22:28.476Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T10:23:53.368Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T10:23:53.372Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-11-05T10:23:55.365Z"}
+{"level":"info","message":"CORS enabled for all origins in development mode","timestamp":"2024-11-05T10:23:55.371Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:24:14 +0000] \"POST /upload HTTP/1.1\" 200 3679 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:24:14.311Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:25:48 +0000] \"OPTIONS /chat HTTP/1.1\" 204 0 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:25:48.065Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:25:48 +0000] \"POST /chat HTTP/1.1\" 200 586 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:25:48.960Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:27:13 +0000] \"OPTIONS /chat HTTP/1.1\" 204 0 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:27:13.529Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:27:18 +0000] \"POST /chat HTTP/1.1\" 200 4242 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:27:18.423Z"}
+{"level":"info","message":"::1 - - [05/Nov/2024:10:28:13 +0000] \"OPTIONS /chat HTTP/1.1\" 204 0 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\"","timestamp":"2024-11-05T10:28:13.575Z"}
+{"level":"info","message":"::1 - - [05/Nov/2024:10:28:16 +0000] \"POST /chat HTTP/1.1\" 200 2976 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\"","timestamp":"2024-11-05T10:28:16.531Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:29:37 +0000] \"OPTIONS /chat HTTP/1.1\" 204 0 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:29:37.913Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Nov/2024:10:29:39 +0000] \"POST /chat HTTP/1.1\" 200 1553 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\"","timestamp":"2024-11-05T10:29:39.550Z"}
