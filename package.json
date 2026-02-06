@@ -2,7 +2,7 @@
   "name": "react-chatbot",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sayakray98/react-chatbot",
+  "homepage": "https://sayakray98.github.io/react-chatbot",
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
     "@testing-library/jest-dom": "^5.17.0",
