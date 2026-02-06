@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sayakray98/react-chatbot/static/css/main.e2876a55.css",
+    "main.js": "/sayakray98/react-chatbot/static/js/main.8b7294ce.js",
+    "static/js/453.e387c12f.chunk.js": "/sayakray98/react-chatbot/static/js/453.e387c12f.chunk.js",
+    "index.html": "/sayakray98/react-chatbot/index.html",
+    "main.e2876a55.css.map": "/sayakray98/react-chatbot/static/css/main.e2876a55.css.map",
+    "main.8b7294ce.js.map": "/sayakray98/react-chatbot/static/js/main.8b7294ce.js.map",
+    "453.e387c12f.chunk.js.map": "/sayakray98/react-chatbot/static/js/453.e387c12f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2876a55.css",
+    "static/js/main.8b7294ce.js"
+  ]
+}
